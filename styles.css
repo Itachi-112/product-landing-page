@@ -309,7 +309,7 @@ footer>p {
 
         width: 100%;
         background: #fff;
-        height: 107px;
+        height: 130px;
     }
 
     .header-title {
@@ -342,16 +342,19 @@ footer>p {
         width: 45%;
         gap: 5px;
         margin-top: 0px;
-        margin-left: 55%;
+        margin-left: 75%;
     }
 
     #nav-bar .nav-link {
-        width: 50%;
+        width: 52%;
         font-weight: 500;
         font-size: 14px;
         text-decoration: none;
         color: rgb(0, 0, 0);
-
+        background-color: rgba(173, 212, 212, 0.397);
+        border-radius: 5%;
+        box-shadow: 0px 0px 2px 0;
+        padding-left: 1px;
     }
 
     #nav-bar .nav-link:hover {
@@ -383,7 +386,7 @@ footer>p {
     font-size: .8em;
     border: none;
     border-radius: 5%;
-    background-color: rgb(187, 207, 207);
+    background-color: rgba(173, 212, 212, 0.397);
    
 }
 
@@ -514,7 +517,7 @@ footer>p {
     .select {
         width: 80px;
         height: 20px;
-        background-color: rgb(187, 207, 207);
+        background-color: rgba(173, 212, 212, 0.397);
         color: rgb(72, 73, 73);
         font-size: 14px;
         font-weight: 550;
@@ -538,7 +541,7 @@ footer>p {
     
 
     footer {
-       background-color: rgb(187, 207, 207);
+       background-color: rgba(173, 212, 212, 0.397);
         margin-top: 200px;
         display: flex;
         flex-direction: column;
